@@ -8,4 +8,4 @@ SolutionGameF <br>
 <h1>Скриншот начала игры</h1>
 ![alt text](GameF/start.png) 
 <h1>Скриншот поля игры</h1><br>
-![alt text](GameF/game.png) <br>
+
