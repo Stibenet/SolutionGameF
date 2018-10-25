@@ -6,7 +6,7 @@ SolutionGameF <br>
 Логика игры прописана в виде библиотке .dll<br>
 Находится данный файл C:\Users\Malkollm\Documents\GIT\SolutionGameF\BoardF\bin\Debug\BoardF.dll<br>
 <h1>Скриншот начала игры</h1>
-<br><br>
+11
 ![alt text](GameF/start.png) 
 <h1>Скриншот поля игры</h1><br>
 
