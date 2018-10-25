@@ -1,0 +1,6 @@
+C:\Users\Malkollm\Documents\GIT\SolutionGameF\BoardF\bin\Debug\BoardF.dll
+C:\Users\Malkollm\Documents\GIT\SolutionGameF\BoardF\bin\Debug\BoardF.pdb
+C:\Users\Malkollm\Documents\GIT\SolutionGameF\BoardF\obj\Debug\BoardF.csprojResolveAssemblyReference.cache
+C:\Users\Malkollm\Documents\GIT\SolutionGameF\BoardF\obj\Debug\BoardF.csproj.CoreCompileInputs.cache
+C:\Users\Malkollm\Documents\GIT\SolutionGameF\BoardF\obj\Debug\BoardF.dll
+C:\Users\Malkollm\Documents\GIT\SolutionGameF\BoardF\obj\Debug\BoardF.pdb

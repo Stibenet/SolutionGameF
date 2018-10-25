@@ -1,0 +1,12 @@
+C:\Users\Malkollm\Documents\GIT\SolutionGameF\WindowGameF\bin\Debug\WindowGameF.exe
+C:\Users\Malkollm\Documents\GIT\SolutionGameF\WindowGameF\bin\Debug\WindowGameF.pdb
+C:\Users\Malkollm\Documents\GIT\SolutionGameF\WindowGameF\obj\Debug\WindowGameF.csprojResolveAssemblyReference.cache
+C:\Users\Malkollm\Documents\GIT\SolutionGameF\WindowGameF\obj\Debug\WindowGameF.FormGame15.resources
+C:\Users\Malkollm\Documents\GIT\SolutionGameF\WindowGameF\obj\Debug\WindowGameF.Properties.Resources.resources
+C:\Users\Malkollm\Documents\GIT\SolutionGameF\WindowGameF\obj\Debug\WindowGameF.csproj.GenerateResource.cache
+C:\Users\Malkollm\Documents\GIT\SolutionGameF\WindowGameF\obj\Debug\WindowGameF.csproj.CoreCompileInputs.cache
+C:\Users\Malkollm\Documents\GIT\SolutionGameF\WindowGameF\obj\Debug\WindowGameF.exe
+C:\Users\Malkollm\Documents\GIT\SolutionGameF\WindowGameF\obj\Debug\WindowGameF.pdb
+C:\Users\Malkollm\Documents\GIT\SolutionGameF\WindowGameF\bin\Debug\BoardF.dll
+C:\Users\Malkollm\Documents\GIT\SolutionGameF\WindowGameF\bin\Debug\BoardF.pdb
+C:\Users\Malkollm\Documents\GIT\SolutionGameF\WindowGameF\obj\Debug\WindowGameF.csproj.CopyComplete
