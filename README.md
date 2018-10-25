@@ -5,7 +5,7 @@ SolutionGameF <br>
 Сборка на Андроид осуществлялась с помощью Unity 5.<br>
 Логика игры прописана в виде библиотке .dll<br>
 Находится данный файл C:\Users\Malkollm\Documents\GIT\SolutionGameF\BoardF\bin\Debug\BoardF.dll<br>
-<b>Скриншот начала игры </b><br>
+<h2>Скриншот начала игры </h2><br>
 ![alt text](GameF/start.png) <br>
 Скриншот поля игры <br>
 ![alt text](GameF/game.png) <br>
