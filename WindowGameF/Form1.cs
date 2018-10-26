@@ -14,6 +14,7 @@ namespace WindowGameF
     {
         const int size = 4;
         Game game;
+        DateTime dateSW;
 
         public FormGame15()
         {
@@ -48,6 +49,21 @@ namespace WindowGameF
         {
             game.Start(1000 + DateTime.Now.DayOfYear);
             ShowButtons();
+            dateSW = DateTime.Now;
+
+            Timer timer = new Timer();
+            timer.Interval = 10;
+            timer.Tick += new EventHandler(tickTimer);
+            timer.Start();
+        }
+
+        void tickTimer(object sender, EventArgs e)
+        {
+            long tick = DateTime.Now.Ticks - dateSW.Ticks;
+            DateTime stopWatch = new DateTime();
+
+            stopWatch = stopWatch.AddTicks(tick);
+            labelsw.Text = String.Format("{0:HH:mm:ss:ff}", stopWatch);
         }
 
         //Скрываем кнопки

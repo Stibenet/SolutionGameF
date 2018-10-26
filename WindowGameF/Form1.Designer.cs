@@ -47,6 +47,7 @@
             this.b33 = new System.Windows.Forms.Button();
             this.buttonStart = new System.Windows.Forms.Button();
             this.labelMoves = new System.Windows.Forms.Label();
+            this.labelsw = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // b00
@@ -244,7 +245,7 @@
             // buttonStart
             // 
             this.buttonStart.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.buttonStart.Location = new System.Drawing.Point(119, 296);
+            this.buttonStart.Location = new System.Drawing.Point(116, 308);
             this.buttonStart.Name = "buttonStart";
             this.buttonStart.Size = new System.Drawing.Size(75, 34);
             this.buttonStart.TabIndex = 16;
@@ -264,11 +265,22 @@
             this.labelMoves.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.labelMoves.Click += new System.EventHandler(this.labelMoves_Click);
             // 
+            // labelsw
+            // 
+            this.labelsw.AutoSize = true;
+            this.labelsw.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.labelsw.Location = new System.Drawing.Point(103, 285);
+            this.labelsw.Name = "labelsw";
+            this.labelsw.Size = new System.Drawing.Size(104, 20);
+            this.labelsw.TabIndex = 18;
+            this.labelsw.Text = "00:00:00:00";
+            // 
             // FormGame15
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(315, 342);
+            this.ClientSize = new System.Drawing.Size(315, 356);
+            this.Controls.Add(this.labelsw);
             this.Controls.Add(this.labelMoves);
             this.Controls.Add(this.buttonStart);
             this.Controls.Add(this.b33);
@@ -293,6 +305,7 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Game F";
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -316,6 +329,7 @@
         private System.Windows.Forms.Button b33;
         private System.Windows.Forms.Button buttonStart;
         private System.Windows.Forms.Label labelMoves;
+        private System.Windows.Forms.Label labelsw;
     }
 }
 
